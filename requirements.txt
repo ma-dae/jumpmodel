@@ -1,0 +1,3 @@
+pip install pandas 
+pip install lxml html5lib beautifulsoup4
+pip install yfinance
