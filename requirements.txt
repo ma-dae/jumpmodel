@@ -3,3 +3,5 @@ pip install lxml html5lib beautifulsoup4
 pip install yfinance
 pip install numpy
 pip install datetime
+pip install transformers
+pip install torch
