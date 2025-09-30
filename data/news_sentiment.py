@@ -1,115 +1,110 @@
 # news_sentiment.py
+import pandas as pd
+import requests
+from datetime import date, timedelta
+from pathlib import Path
 import os
 import json
-import pandas as pd
-import datetime
-from pathlib import Path
-from newsapi import NewsApiClient  # pip install newsapi-python
 
-# 📁 환경설정
+# 📁 경로 설정
 CONFIG_PATH = "config/sp500_companies.csv"
-NEWS_DATA_DIR = Path("data/news")
-NEWS_DATA_DIR.mkdir(parents=True, exist_ok=True)
-LOG_PATH = NEWS_DATA_DIR / "failed_news_tickers.json"
+NEWS_DIR = Path("data/news")
+NEWS_DIR.mkdir(parents=True, exist_ok=True)
+LOG_PATH = NEWS_DIR / "failed_tickers.json"
 
-# 📌 뉴스API 키 (환경변수 또는 직접 입력)
-NEWSAPI_KEY = os.getenv("NEWSAPI_KEY") or "524a1766bfd74c48aee3a384c0dea908"
-newsapi = NewsApiClient(api_key=NEWSAPI_KEY)
+# 📌 날짜 설정
+TODAY = date.today()
+FROM_DATE = (TODAY - timedelta(days=7)).isoformat()
+TO_DATE = TODAY.isoformat()
 
-# =============================
-# 🔄 뉴스 수집 및 감성 분석
-# =============================
-def run_news_collection(days_back: int = 30):
-    """S&P500 티커별 뉴스 수집 및 FinBERT 감성 분석"""
-    
-    # 티커 불러오기
+# 📄 API Key 설정 (NewsAPI)
+NEWS_API_KEY = os.getenv("524a1766bfd74c48aee3a384c0dea908")  # 환경변수로 설정 권장
+BASE_URL = "https://newsapi.org/v2/everything"
+
+# 📄 S&P500 티커 불러오기
+try:
     sp500 = pd.read_csv(CONFIG_PATH)
-    tickers = sp500['Symbol'].dropna().unique().tolist()
-    print(f"[📊] {len(tickers)}개 티커 로드 완료")
+    tickers = sp500['Symbol'].dropna().tolist()
+except Exception as e:
+    raise FileNotFoundError(f"[❌] 기업 리스트 로딩 실패: {e}")
 
+# =============================
+# 🔄 뉴스 수집 함수 (티커별)
+# =============================
+def fetch_news_newsapi(ticker):
+    print(f"📰 {ticker}: 뉴스 수집 중...")
+    params = {
+        "q": ticker,
+        "from": FROM_DATE,
+        "to": TO_DATE,
+        "sortBy": "publishedAt",
+        "language": "en",
+        "apiKey": NEWS_API_KEY,
+        "pageSize": 100
+    }
+    try:
+        response = requests.get(BASE_URL, params=params)
+        data = response.json()
+        if data.get("status") != "ok":
+            raise ValueError(data.get("message", "API 오류"))
+
+        articles = data.get("articles", [])
+        if not articles:
+            print(f"   ⚠️ {ticker}: 뉴스 없음")
+            return pd.DataFrame()
+
+        df = pd.DataFrame(articles)
+        df['Ticker'] = ticker
+        df = df.rename(columns={'publishedAt': 'providerPublishTime'})
+        df['providerPublishTime'] = pd.to_datetime(df['providerPublishTime'])
+        print(f"   ✅ {ticker}: {len(df)}개 뉴스 수집 완료")
+        return df[['Ticker', 'title', 'providerPublishTime']]
+
+    except Exception as e:
+        print(f"   ❌ {ticker} 수집 실패 → {e}")
+        return pd.DataFrame()
+
+# =============================
+# 🔄 하루 100개씩 슬라이싱
+# =============================
+def get_today_tickers(chunk_size=100):
+    chunks = [tickers[i:i + chunk_size] for i in range(0, len(tickers), chunk_size)]
+    today_index = TODAY.toordinal() % len(chunks)
+    return chunks[today_index]
+
+# =============================
+# 🔄 전체 뉴스 수집 함수
+# =============================
+def run_news_collection(selected_tickers=None):
+    """
+    📌 뉴스 전체 수집 실행
+    - selected_tickers: 리스트로 전달 가능
+    """
     failed_tickers = []
     all_news_df = pd.DataFrame()
 
-    # 날짜 범위
-    to_date = datetime.datetime.now()
-    from_date = to_date - datetime.timedelta(days=days_back)
-    from_str = from_date.strftime("%Y-%m-%d")
-    to_str = to_date.strftime("%Y-%m-%d")
+    if selected_tickers is None:
+        tickers_to_process = get_today_tickers()
+    else:
+        tickers_to_process = selected_tickers
 
-    # FinBERT 로딩
-    try:
-        from transformers import pipeline
-        sentiment_pipeline = pipeline(
-            "sentiment-analysis",
-            model="yiyanghkust/finbert-tone",
-            tokenizer="yiyanghkust/finbert-tone"
-        )
-        print("✅ FinBERT 모델 로드 완료")
-    except Exception as e:
-        print(f"[❌] FinBERT 로드 실패: {e}")
-        return
+    print(f"[📊] 오늘 처리할 뉴스 티커 수: {len(tickers_to_process)}")
+    for i, ticker in enumerate(tickers_to_process, 1):
+        print(f"\n[{i}/{len(tickers_to_process)}] {ticker} 처리 중...")
+        news_df = fetch_news_newsapi(ticker)
+        if not news_df.empty:
+            all_news_df = pd.concat([all_news_df, news_df], ignore_index=True)
+        else:
+            failed_tickers.append({"ticker": ticker, "reason": "empty or error"})
 
-    for i, ticker in enumerate(tickers, 1):
-        print(f"\n[{i}/{len(tickers)}] {ticker}: 뉴스 수집 중...")
-        try:
-            news_results = newsapi.get_everything(
-                q=ticker,
-                from_param=from_str,
-                to=to_str,
-                language='en',
-                sort_by='relevancy',
-                page_size=100  # 최대 100개
-            )
-
-            articles = news_results.get('articles', [])
-            if not articles:
-                print(f"[⚠️] {ticker}: 뉴스 없음")
-                failed_tickers.append({"ticker": ticker, "reason": "empty"})
-                continue
-
-            df = pd.DataFrame(articles)
-            df['Ticker'] = ticker
-            df = df[['Ticker', 'title', 'publishedAt']].rename(columns={'publishedAt': 'Date'})
-            df['Date'] = pd.to_datetime(df['Date'])
-
-            # 감성 분석
-            sentiments = []
-            for text in df['title']:
-                result = sentiment_pipeline(text)[0]
-                label = result['label'].lower()
-                score = result['score']
-                if label == "positive":
-                    sentiments.append(score)
-                elif label == "negative":
-                    sentiments.append(-score)
-                else:
-                    sentiments.append(0.0)
-            df['news_sentiment_score'] = sentiments
-
-            # 긍정 키워드 등장 횟수
-            df['positive_keywords_count'] = df['title'].str.count(r'\b(earnings|growth|merger|acquisition|contract)\b')
-
-            all_news_df = pd.concat([all_news_df, df], ignore_index=True)
-            print(f"[✅] {ticker}: {len(df)}개 뉴스 수집 및 감성 분석 완료")
-
-        except Exception as e:
-            print(f"[💥] {ticker}: 뉴스 수집 실패 → {e}")
-            failed_tickers.append({"ticker": ticker, "reason": str(e)})
-
-    # CSV 저장
-    output_path = NEWS_DATA_DIR / "news_sentiment_features.csv"
+    # 저장
+    output_path = NEWS_DIR / f"news_sentiment_{TODAY}.csv"
     all_news_df.to_csv(output_path, index=False)
-    print(f"\n💾 모든 뉴스 저장 완료 → {output_path}")
-    print(f"📊 총 뉴스: {len(all_news_df)}개")
+    print(f"\n💾 뉴스 수집 완료 → {output_path}")
+    print(f"📊 총 수집된 뉴스: {len(all_news_df)}개")
 
-    # 실패 티커 기록
+    # 실패 로그 저장
     if failed_tickers:
         with open(LOG_PATH, "w", encoding="utf-8") as f:
             json.dump(failed_tickers, f, indent=2, ensure_ascii=False)
-        print(f"[📌] 실패 티커 {len(failed_tickers)}개 기록됨 → {LOG_PATH}")
-
-# =============================
-# 🔄 독립 실행
-# =============================
-if __name__ == "__main__":
-    run_news_collection(days_back=30)
+        print(f"[📌] 실패한 종목 {len(failed_tickers)}개 기록됨 → {LOG_PATH}")

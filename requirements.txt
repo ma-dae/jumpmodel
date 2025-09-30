@@ -5,3 +5,4 @@ pip install numpy
 pip install datetime
 pip install transformers
 pip install torch
+pip install newsapi-python
