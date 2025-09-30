@@ -1,0 +1,1846 @@
+[
+  {
+    "ticker": "TMO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TMO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD2FD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ABT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ABT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2BC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ADBE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ADBE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F094B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB25550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ISRG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ISRG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD3AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PLTR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PLTR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5FA50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EAD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "INTU",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=INTU&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D210>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CAT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CAT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAE8650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TXN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TXN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F094090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "QCOM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=QCOM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BKNG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BKNG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D7D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DHR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DHR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F094390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "T",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=T&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087210>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BLK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BLK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5FDD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RTX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RTX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SPGI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SPGI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1E810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PFE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PFE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB40E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HON",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HON&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB417D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NEE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NEE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F073150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CMCSA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CMCSA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ANET",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ANET&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMGN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMGN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087210>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PGR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PGR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1D8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LOW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LOW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42510>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SYK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SYK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F086510>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UNP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UNP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1D450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TJX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TJX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5ED50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KKR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KKR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB276D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SCHW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SCHW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2BE90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ETN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ETN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMAT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMAT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1BF50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BSX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BSX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD35D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "C",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=C&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EAD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UBER",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UBER&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088910>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "COP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=COP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CD7D390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PANW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PANW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F09CD10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ADP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ADP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E5569D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5CDD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1EB90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BMY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BMY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD00D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LMT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LMT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A310>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GILD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GILD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA28850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NKE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NKE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC48890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UPS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UPS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F1D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ADI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ADI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F073410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MMC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MMC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F095990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MDT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MDT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VRTX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VRTX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087FD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MU",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MU&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3010>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SBUX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SBUX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD24D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PLD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PLD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5CC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GEV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GEV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A310>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LRCX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LRCX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1DFD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC170D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D5D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EQIX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EQIX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAE96D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CRWD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CRWD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2AED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PYPL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PYPL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SHW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SHW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0845D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ICE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ICE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F9D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CME",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CME&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F089090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087A90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "APH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=APH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF18D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ELV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ELV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA28A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MCO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MCO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CMG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CMG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1EDD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "INTC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=INTC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2B850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KLAC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KLAC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ABNB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ABNB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DUK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DUK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7F0D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC53BD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CDNS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CDNS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F072D10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F084990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DELL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DELL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MDLZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MDLZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MAR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MAR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F095F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MSI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MSI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1E810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WELL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WELL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F218FD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AON",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AON&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "REGN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=REGN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAE84D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HCA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HCA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F084290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PNC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PNC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ITW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ITW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F218910>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SNPS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SNPS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CTAS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CTAS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5CC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1BF50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "USB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=USB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F086610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FTNT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FTNT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ZTS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ZTS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB0B890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MCK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MCK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E6D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TDG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TDG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CEG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CEG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB24990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AJG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AJG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EMR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EMR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MMM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MMM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC466D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ORLY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ORLY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NOC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NOC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB30C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "COF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=COF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ECL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ECL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EOG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EOG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08DD90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FDX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FDX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC47550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BDX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BDX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "APD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=APD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WMB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WMB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0870D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SPG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SPG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEB110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ADSK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ADSK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RCL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RCL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RSG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RSG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DD90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CARR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CARR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CCA5050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CSX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CSX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD2F90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HLT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HLT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F085410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DLR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DLR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TGT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TGT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KMI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KMI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "OKE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=OKE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TFC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TFC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A250>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AFL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AFL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1CA10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA0C5D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7E890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ROP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ROP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MET",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MET&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5CD50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CPRT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CPRT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDA7D10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FCX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FCX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC457D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CVS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CVS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E2D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PCAR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PCAR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087D50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SRE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SRE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AZO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AZO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F084E90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TRV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TRV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NXPI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NXPI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC40050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "JCI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=JCI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GWW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GWW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDBEB90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NSC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NSC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EA50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PSA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PSA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F089FD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SLB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SLB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E898690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEA450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ALL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ALL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FICO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FICO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MNST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MNST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PAYX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PAYX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CHTR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CHTR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AEP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AEP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F9D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ROST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ROST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2B050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PWR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PWR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EC10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CMI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CMI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF38D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AXON",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AXON&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB32CD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "URI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=URI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C5D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MSCI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MSCI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0970D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LULU",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LULU&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C1D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "O",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=O&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F09D590>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PSX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PSX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C210>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AIG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AIG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F21B550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FANG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FANG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "D",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=D&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DBD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HWM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HWM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD3010>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DHI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DHI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC40C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB268D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NDAQ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NDAQ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F219250>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "OXY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=OXY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDA50D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC48A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "COR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=COR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KDP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KDP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB26C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FIS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FIS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC43850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KMB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KMB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NEM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NEM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DFS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DFS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC430D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PCG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PCG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TEL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TEL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC53BD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MPC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MPC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC485D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FAST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FAST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB32C10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AME",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AME&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1DF90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PEG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PEG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC48FD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PRU",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PRU&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KVUE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KVUE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F095F90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "STZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=STZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC43A90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GLW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GLW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08CB90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LHX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LHX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1E1D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GRMN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GRMN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08EFD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BKR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BKR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC444D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CBRE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CBRE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC43290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CTVA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CTVA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB25350>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HES",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HES&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CCI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CCI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CD957D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DAL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DAL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F21C350>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CTSH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CTSH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "F",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=F&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27D50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VRSK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VRSK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC40A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ODFL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ODFL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "XEL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=XEL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DB10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TRGP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TRGP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "A",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=A&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0977D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F073E90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LVS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LVS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0883D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SYY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SYY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD2690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VLO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VLO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2B0D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "OTIS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=OTIS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC48F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LEN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LEN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CD7D390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EXC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EXC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC477D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "YUM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=YUM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB41F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KHC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KHC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC53A50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GEHC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GEHC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC53710>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IQV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IQV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F096690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GIS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GIS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7FE50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CCL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CCL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45790>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RMD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RMD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VMC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VMC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5C810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HSY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HSY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C350>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ACGL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ACGL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IDXX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IDXX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC444D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WAB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WAB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D010>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ROK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ROK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F094610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MLM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MLM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C6D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EXR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EXR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB09B90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41F50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ETR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ETR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DECK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DECK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F095190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EFX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EFX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UAL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UAL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WTW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WTW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TTWO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TTWO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E88EB90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HIG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HIG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC47550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RJF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RJF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7D8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AVB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AVB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08E4D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MTB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MTB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB41F50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DXCM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DXCM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC43A50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ED",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ED&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F219710>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EBAY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EBAY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0965D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HPQ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HPQ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD1B10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IRM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IRM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08DC10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EIX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EIX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LYV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LYV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VICI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VICI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F219ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CNC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CNC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0733D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WEC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WEC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5C810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MCHP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MCHP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F089950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HUM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HUM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB32B10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ANSS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ANSS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BRO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BRO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CSGP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CSGP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5FAD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MPWR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MPWR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GDDY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GDDY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA28090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TSCO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TSCO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E7D0AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "STT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=STT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC44210>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CAH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CAH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDA7D10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GPN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GPN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FITB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FITB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC44190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "XYL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=XYL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB41C50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HPE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HPE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA285D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KEYS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KEYS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D1D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DOW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DOW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EQR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EQR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC40D90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ON",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ON&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PPG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PPG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7E110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "K",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=K&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NUE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NUE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F094C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08C190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC44E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WBD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WBD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC50510>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TPL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TPL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD22D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CHD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CHD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A3D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MTD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MTD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DOV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DOV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D010>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TYL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TYL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087510>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FTV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FTV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TROW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TROW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41F50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VLTO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VLTO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F21C390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EQT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EQT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0970D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SYF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SYF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA297D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NVR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NVR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1D850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DTE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DTE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB25F90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VTR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VTR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AWK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AWK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F096290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ADM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ADM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NTAP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NTAP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5C0D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CPAY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CPAY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D1D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PPL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PPL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LYB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LYB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C6D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AEE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AEE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D790>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EXPE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EXPE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08EE10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HBAN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HBAN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29C10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CDW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CDW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF1090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F096B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HUBB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HUBB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08EF50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HAL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HAL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D710>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ROL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ROL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PHM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PHM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC40C50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CINF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CINF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PTC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PTC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08AA90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WRB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WRB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DRI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DRI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1FF10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FOXA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FOXA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D350>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FOX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FOX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB41F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IFF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IFF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEAED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SBAC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SBAC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1B2D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WAT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WAT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1CE10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ERIE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ERIE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TDY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TDY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ATO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ATO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD2650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BIIB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BIIB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F219E90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ZBH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ZBH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CNP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CNP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF2B90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MKC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MKC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ES",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ES&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F072CD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WDC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WDC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0977D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TSN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TSN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F21A190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TER",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TER&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA3F990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "STE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=STE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0951D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PKG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PKG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F09C750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CLX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CLX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC47ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NTRS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NTRS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD3550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ZBRA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ZBRA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1DFD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DVN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DVN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1E390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CBOE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CBOE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA28050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LUV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LUV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5DBD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ULTA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ULTA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7FE50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CMS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CMS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285D966AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "INVH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=INVH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FSLR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FSLR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097D90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BF-B",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BF-B&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA16250>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LDOS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LDOS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD1D50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CFG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CFG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DF90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VRSN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VRSN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC42810>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0845D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ESS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ESS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A450>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PODD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PODD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD0890>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "COO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=COO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41BD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SMCI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SMCI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097ED0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "STX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=STX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5CD50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MAA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MAA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB40C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FDS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FDS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEAA10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NRG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NRG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF20D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BBY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BBY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC47590>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SNA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SNA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E9983D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "L",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=L&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E090>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PFG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PFG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08CC10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "STLD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=STLD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1B290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TRMB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TRMB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F086050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "OMC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=OMC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27B50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CTRA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CTRA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0971D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HRL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HRL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EC90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ARE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ARE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC7C390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BLDR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BLDR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5EB50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "JBHT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=JBHT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA23110>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GEN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GEN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEB8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DGX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DGX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDA5DD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KEY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KEY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087950>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NI",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NI&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2B8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MOH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MOH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA29750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PNR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PNR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF21D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "J",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=J&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC43850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0843D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BALL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BALL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F2D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NWS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NWS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NWSA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NWSA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UDR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UDR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0950D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HOLX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HOLX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5D690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "JBL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=JBL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F086D90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GPC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GPC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000022853465DD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IEX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IEX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097B90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MAS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MAS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2B850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KIM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KIM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC16290>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ALGN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ALGN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF35D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DLTR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DLTR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0861D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EXPD",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EXPD&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MRNA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MRNA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097590>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LNT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LNT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097350>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AVY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AVY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5D050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BAX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BAX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F086050>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TPR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TPR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC5CB90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "VTRS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=VTRS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF25D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CF",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CF&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F089590>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FFIV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FFIV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F218E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DPZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DPZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CD7D390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AKAM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AKAM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB24990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TXT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TXT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEAA10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SWKS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SWKS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD3550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EVRG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EVRG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F218510>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EPAM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EPAM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27490>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DOC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DOC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000022853465DD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "APTV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=APTV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB40C10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "RVTY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=RVTY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC44D90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMCR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMCR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088590>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "REG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=REG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1CC90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "POOL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=POOL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1C6D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "INCY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=INCY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D9D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BXP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BXP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B790>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "KMX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=KMX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB40C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CAG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CAG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HST",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HST&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB26A50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "JKHY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=JKHY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC41F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SWK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SWK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF28D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DVA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DVA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA2A410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CPB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CPB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB254D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CHRW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CHRW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08A550>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "JNPR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=JNPR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F410>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CPT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CPT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB32E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TAP",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TAP&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC17AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NDSN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NDSN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F910>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PAYC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PAYC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "UHS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=UHS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB40C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "NCLH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=NCLH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF0C50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "DAY",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=DAY&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F087AD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SJM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SJM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF3650>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TECH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TECH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA287D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "SOLV",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=SOLV&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45D90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ALLE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ALLE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F21CA90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0862D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AIZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AIZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC17790>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IPG",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IPG&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5C0D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BEN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BEN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F095390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "EMN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=EMN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB419D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ALB",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ALB&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1B750>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MGM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MGM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F097D50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AOS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AOS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08EE50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WYNN",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WYNN&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5F9D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PNW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PNW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287E6B2D10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "ENPH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=ENPH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAEBC50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LKQ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LKQ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08FCD0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FRT",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FRT&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC45A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CRL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CRL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F096C90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GNRC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GNRC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088990>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AES",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AES&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F088690>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "GL",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=GL&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC48E90>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "LW",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=LW&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EC44E50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HSIC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HSIC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F610>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MKTX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MKTX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27F10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MTCH",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MTCH&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "TFX",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=TFX&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F218390>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "WBA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=WBA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F09E8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HAS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HAS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB27190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "IVZ",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=IVZ&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08F8D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "APA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=APA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5E150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MOS",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MOS&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287ECD13D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "PARA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=PARA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F0951D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "MHK",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=MHK&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08B150>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CE",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CE&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287EA28D50>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "HII",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=HII&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB5DA10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "CZR",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=CZR&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287F08D190>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "BWA",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=BWA&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002287CDB2A10>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "QRVO",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=QRVO&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF36D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "FMC",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=FMC&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DAF02D0>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "ticker": "AMTM",
+    "reason": "HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=AMTM&from=2025-08-31&to=2025-09-30&language=en&sortBy=relevancy&pageSize=100 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002285DB1B850>: Failed to resolve 'newsapi.org' ([Errno 11001] getaddrinfo failed)\"))"
+  }
+]

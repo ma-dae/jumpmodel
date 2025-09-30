@@ -1,110 +1,115 @@
-import yfinance as yf
+# news_sentiment.py
+import os
+import json
 import pandas as pd
 import datetime
-import os
 from pathlib import Path
+from newsapi import NewsApiClient  # pip install newsapi-python
 
-print("🚀 뉴스 감성 분석 시작...")
-
-# 0. 환경설정 경로
+# 📁 환경설정
 CONFIG_PATH = "config/sp500_companies.csv"
+NEWS_DATA_DIR = Path("data/news")
+NEWS_DATA_DIR.mkdir(parents=True, exist_ok=True)
+LOG_PATH = NEWS_DATA_DIR / "failed_news_tickers.json"
 
-# 1. S&P 500 종목 리스트 불러오기
-print("📊 S&P500 데이터 로딩 중...")
-if not os.path.exists(CONFIG_PATH):
-    raise FileNotFoundError(f"{CONFIG_PATH} 파일이 존재하지 않습니다.")
-sp500 = pd.read_csv(CONFIG_PATH)
-tickers = sp500['Symbol'].tolist()
-print(f"✅ {len(tickers)}개 티커 로드 완료")
+# 📌 뉴스API 키 (환경변수 또는 직접 입력)
+NEWSAPI_KEY = os.getenv("NEWSAPI_KEY") or "524a1766bfd74c48aee3a384c0dea908"
+newsapi = NewsApiClient(api_key=NEWSAPI_KEY)
 
-# 2. FinBERT 모델 로딩 (진행상황 표시)
-print("🤖 FinBERT 모델 로딩 중... (최초 실행시 다운로드로 5-10분 소요)")
-print("   - 모델 크기: ~400MB")
-print("   - 다운로드 위치: ~/.cache/huggingface/")
-
-try:
-    from transformers import pipeline
-    sentiment_pipeline = pipeline(
-        "sentiment-analysis",
-        model="yiyanghkust/finbert-tone",
-        tokenizer="yiyanghkust/finbert-tone"
-    )
-    print("✅ FinBERT 모델 로드 완료!")
+# =============================
+# 🔄 뉴스 수집 및 감성 분석
+# =============================
+def run_news_collection(days_back: int = 30):
+    """S&P500 티커별 뉴스 수집 및 FinBERT 감성 분석"""
     
-except Exception as e:
-    print(f"❌ FinBERT 로드 실패: {e}")
-    print("🔄 기본 감성 모델로 대체 시도...")
-    sentiment_pipeline = pipeline("sentiment-analysis")
+    # 티커 불러오기
+    sp500 = pd.read_csv(CONFIG_PATH)
+    tickers = sp500['Symbol'].dropna().unique().tolist()
+    print(f"[📊] {len(tickers)}개 티커 로드 완료")
 
-# 3. 뉴스 데이터 수집
-def fetch_news(ticker, period_days=7):
-    print(f"📰 {ticker} 뉴스 수집 중...")
+    failed_tickers = []
+    all_news_df = pd.DataFrame()
+
+    # 날짜 범위
+    to_date = datetime.datetime.now()
+    from_date = to_date - datetime.timedelta(days=days_back)
+    from_str = from_date.strftime("%Y-%m-%d")
+    to_str = to_date.strftime("%Y-%m-%d")
+
+    # FinBERT 로딩
     try:
-        stock = yf.Ticker(ticker)
-        news_items = stock.news
-        
-        if not news_items:
-            print(f"   ⚠️ {ticker}: 뉴스 없음")
-            return pd.DataFrame()
-            
-        df = pd.DataFrame(news_items)
-        df['providerPublishTime'] = pd.to_datetime(df['providerPublishTime'], unit='s')
-        start_date = datetime.datetime.now() - datetime.timedelta(days=period_days)
-        df = df[df['providerPublishTime'] >= start_date]
-        df['Ticker'] = ticker
-        print(f"   ✅ {ticker}: {len(df)}개 뉴스 수집")
-        return df[['Ticker', 'title', 'providerPublishTime']]
-        
+        from transformers import pipeline
+        sentiment_pipeline = pipeline(
+            "sentiment-analysis",
+            model="yiyanghkust/finbert-tone",
+            tokenizer="yiyanghkust/finbert-tone"
+        )
+        print("✅ FinBERT 모델 로드 완료")
     except Exception as e:
-        print(f"   ❌ {ticker} 수집 실패: {e}")
-        return pd.DataFrame()
+        print(f"[❌] FinBERT 로드 실패: {e}")
+        return
 
-# 4. 감성 분석
-def analyze_sentiment(df):
-    if df.empty:
-        return df
-    
-    print(f"   🔍 감성 분석 중... ({len(df)}개 뉴스)")
-    sentiments = []
-    
-    for i, text in enumerate(df['title']):
-        if i % 5 == 0:  # 5개마다 진행상황 출력
-            print(f"      진행: {i+1}/{len(df)}")
-            
-        result = sentiment_pipeline(text)[0]
-        label = result['label']
-        score = result['score']
-        
-        if label.lower() == "positive":
-            sentiments.append(score)
-        elif label.lower() == "negative":
-            sentiments.append(-score)
-        else:
-            sentiments.append(0.0)
-    
-    df['news_sentiment_score'] = sentiments
-    df['positive_keywords_count'] = df['title'].str.count(r'\b(실적|신사업|M&A|계약|성장)\b')
-    return df
+    for i, ticker in enumerate(tickers, 1):
+        print(f"\n[{i}/{len(tickers)}] {ticker}: 뉴스 수집 중...")
+        try:
+            news_results = newsapi.get_everything(
+                q=ticker,
+                from_param=from_str,
+                to=to_str,
+                language='en',
+                sort_by='relevancy',
+                page_size=100  # 최대 100개
+            )
 
-# 5. 전체 실행
-print("\n🔄 뉴스 수집 및 분석 시작...")
-all_news_df = pd.DataFrame()
+            articles = news_results.get('articles', [])
+            if not articles:
+                print(f"[⚠️] {ticker}: 뉴스 없음")
+                failed_tickers.append({"ticker": ticker, "reason": "empty"})
+                continue
 
-test_tickers = tickers[:5]  # 테스트용 5개로 축소
-for i, ticker in enumerate(test_tickers, 1):
-    print(f"\n[{i}/{len(test_tickers)}] {ticker} 처리 중...")
-    
-    news_df = fetch_news(ticker)
-    if not news_df.empty:
-        news_df = analyze_sentiment(news_df)
-        all_news_df = pd.concat([all_news_df, news_df], ignore_index=True)
+            df = pd.DataFrame(articles)
+            df['Ticker'] = ticker
+            df = df[['Ticker', 'title', 'publishedAt']].rename(columns={'publishedAt': 'Date'})
+            df['Date'] = pd.to_datetime(df['Date'])
 
-# 6. 결과 저장
-print("\n💾 결과 저장 중...")
-output_dir = Path("data/news")
-output_dir.mkdir(parents=True, exist_ok=True)
-output_path = output_dir / "news_sentiment_features.csv"
+            # 감성 분석
+            sentiments = []
+            for text in df['title']:
+                result = sentiment_pipeline(text)[0]
+                label = result['label'].lower()
+                score = result['score']
+                if label == "positive":
+                    sentiments.append(score)
+                elif label == "negative":
+                    sentiments.append(-score)
+                else:
+                    sentiments.append(0.0)
+            df['news_sentiment_score'] = sentiments
 
-all_news_df.to_csv(output_path, index=False)
-print(f"🎉 완료! 저장 경로: {output_path}")
-print(f"📊 총 수집된 뉴스: {len(all_news_df)}개")
+            # 긍정 키워드 등장 횟수
+            df['positive_keywords_count'] = df['title'].str.count(r'\b(earnings|growth|merger|acquisition|contract)\b')
+
+            all_news_df = pd.concat([all_news_df, df], ignore_index=True)
+            print(f"[✅] {ticker}: {len(df)}개 뉴스 수집 및 감성 분석 완료")
+
+        except Exception as e:
+            print(f"[💥] {ticker}: 뉴스 수집 실패 → {e}")
+            failed_tickers.append({"ticker": ticker, "reason": str(e)})
+
+    # CSV 저장
+    output_path = NEWS_DATA_DIR / "news_sentiment_features.csv"
+    all_news_df.to_csv(output_path, index=False)
+    print(f"\n💾 모든 뉴스 저장 완료 → {output_path}")
+    print(f"📊 총 뉴스: {len(all_news_df)}개")
+
+    # 실패 티커 기록
+    if failed_tickers:
+        with open(LOG_PATH, "w", encoding="utf-8") as f:
+            json.dump(failed_tickers, f, indent=2, ensure_ascii=False)
+        print(f"[📌] 실패 티커 {len(failed_tickers)}개 기록됨 → {LOG_PATH}")
+
+# =============================
+# 🔄 독립 실행
+# =============================
+if __name__ == "__main__":
+    run_news_collection(days_back=30)
