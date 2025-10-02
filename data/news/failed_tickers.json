@@ -1,402 +1,402 @@
 [
   {
-    "ticker": "A",
+    "ticker": "GEV",
     "reason": "empty or error"
   },
   {
-    "ticker": "AAPL",
+    "ticker": "GILD",
     "reason": "empty or error"
   },
   {
-    "ticker": "ABBV",
+    "ticker": "GIS",
     "reason": "empty or error"
   },
   {
-    "ticker": "ABNB",
+    "ticker": "GL",
     "reason": "empty or error"
   },
   {
-    "ticker": "ABT",
+    "ticker": "GLW",
     "reason": "empty or error"
   },
   {
-    "ticker": "ACGL",
+    "ticker": "GM",
     "reason": "empty or error"
   },
   {
-    "ticker": "ACN",
+    "ticker": "GNRC",
     "reason": "empty or error"
   },
   {
-    "ticker": "ADBE",
+    "ticker": "GOOG",
     "reason": "empty or error"
   },
   {
-    "ticker": "ADI",
+    "ticker": "GOOGL",
     "reason": "empty or error"
   },
   {
-    "ticker": "ADM",
+    "ticker": "GPC",
     "reason": "empty or error"
   },
   {
-    "ticker": "ADP",
+    "ticker": "GPN",
     "reason": "empty or error"
   },
   {
-    "ticker": "ADSK",
+    "ticker": "GRMN",
     "reason": "empty or error"
   },
   {
-    "ticker": "AEE",
+    "ticker": "GS",
     "reason": "empty or error"
   },
   {
-    "ticker": "AEP",
+    "ticker": "GWW",
     "reason": "empty or error"
   },
   {
-    "ticker": "AES",
+    "ticker": "HAL",
     "reason": "empty or error"
   },
   {
-    "ticker": "AFL",
+    "ticker": "HAS",
     "reason": "empty or error"
   },
   {
-    "ticker": "AIG",
+    "ticker": "HBAN",
     "reason": "empty or error"
   },
   {
-    "ticker": "AIZ",
+    "ticker": "HCA",
     "reason": "empty or error"
   },
   {
-    "ticker": "AJG",
+    "ticker": "HD",
     "reason": "empty or error"
   },
   {
-    "ticker": "AKAM",
+    "ticker": "HIG",
     "reason": "empty or error"
   },
   {
-    "ticker": "ALB",
+    "ticker": "HII",
     "reason": "empty or error"
   },
   {
-    "ticker": "ALGN",
+    "ticker": "HLT",
     "reason": "empty or error"
   },
   {
-    "ticker": "ALL",
+    "ticker": "HOLX",
     "reason": "empty or error"
   },
   {
-    "ticker": "ALLE",
+    "ticker": "HON",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMAT",
+    "ticker": "HPE",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMCR",
+    "ticker": "HPQ",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMD",
+    "ticker": "HRL",
     "reason": "empty or error"
   },
   {
-    "ticker": "AME",
+    "ticker": "HSIC",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMGN",
+    "ticker": "HST",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMP",
+    "ticker": "HSY",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMT",
+    "ticker": "HUBB",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMTM",
+    "ticker": "HUM",
     "reason": "empty or error"
   },
   {
-    "ticker": "AMZN",
+    "ticker": "HWM",
     "reason": "empty or error"
   },
   {
-    "ticker": "ANET",
+    "ticker": "IBM",
     "reason": "empty or error"
   },
   {
-    "ticker": "AON",
+    "ticker": "ICE",
     "reason": "empty or error"
   },
   {
-    "ticker": "AOS",
+    "ticker": "IDXX",
     "reason": "empty or error"
   },
   {
-    "ticker": "APA",
+    "ticker": "IEX",
     "reason": "empty or error"
   },
   {
-    "ticker": "APD",
+    "ticker": "IFF",
     "reason": "empty or error"
   },
   {
-    "ticker": "APH",
+    "ticker": "INCY",
     "reason": "empty or error"
   },
   {
-    "ticker": "APTV",
+    "ticker": "INTC",
     "reason": "empty or error"
   },
   {
-    "ticker": "ARE",
+    "ticker": "INTU",
     "reason": "empty or error"
   },
   {
-    "ticker": "ATO",
+    "ticker": "INVH",
     "reason": "empty or error"
   },
   {
-    "ticker": "AVB",
+    "ticker": "IP",
     "reason": "empty or error"
   },
   {
-    "ticker": "AVGO",
+    "ticker": "IPG",
     "reason": "empty or error"
   },
   {
-    "ticker": "AVY",
+    "ticker": "IQV",
     "reason": "empty or error"
   },
   {
-    "ticker": "AWK",
+    "ticker": "IR",
     "reason": "empty or error"
   },
   {
-    "ticker": "AXON",
+    "ticker": "IRM",
     "reason": "empty or error"
   },
   {
-    "ticker": "AXP",
+    "ticker": "ISRG",
     "reason": "empty or error"
   },
   {
-    "ticker": "AZO",
+    "ticker": "IT",
     "reason": "empty or error"
   },
   {
-    "ticker": "BA",
+    "ticker": "ITW",
     "reason": "empty or error"
   },
   {
-    "ticker": "BAC",
+    "ticker": "IVZ",
     "reason": "empty or error"
   },
   {
-    "ticker": "BALL",
+    "ticker": "J",
     "reason": "empty or error"
   },
   {
-    "ticker": "BAX",
+    "ticker": "JBHT",
     "reason": "empty or error"
   },
   {
-    "ticker": "BBY",
+    "ticker": "JBL",
     "reason": "empty or error"
   },
   {
-    "ticker": "BDX",
+    "ticker": "JCI",
     "reason": "empty or error"
   },
   {
-    "ticker": "BEN",
+    "ticker": "JKHY",
     "reason": "empty or error"
   },
   {
-    "ticker": "BF-B",
+    "ticker": "JNJ",
     "reason": "empty or error"
   },
   {
-    "ticker": "BG",
+    "ticker": "JPM",
     "reason": "empty or error"
   },
   {
-    "ticker": "BIIB",
+    "ticker": "K",
     "reason": "empty or error"
   },
   {
-    "ticker": "BK",
+    "ticker": "KDP",
     "reason": "empty or error"
   },
   {
-    "ticker": "BKNG",
+    "ticker": "KEY",
     "reason": "empty or error"
   },
   {
-    "ticker": "BKR",
+    "ticker": "KEYS",
     "reason": "empty or error"
   },
   {
-    "ticker": "BLDR",
+    "ticker": "KHC",
     "reason": "empty or error"
   },
   {
-    "ticker": "BLK",
+    "ticker": "KIM",
     "reason": "empty or error"
   },
   {
-    "ticker": "BMY",
+    "ticker": "KKR",
     "reason": "empty or error"
   },
   {
-    "ticker": "BR",
+    "ticker": "KLAC",
     "reason": "empty or error"
   },
   {
-    "ticker": "BRK-B",
+    "ticker": "KMB",
     "reason": "empty or error"
   },
   {
-    "ticker": "BRO",
+    "ticker": "KMI",
     "reason": "empty or error"
   },
   {
-    "ticker": "BSX",
+    "ticker": "KMX",
     "reason": "empty or error"
   },
   {
-    "ticker": "BWA",
+    "ticker": "KO",
     "reason": "empty or error"
   },
   {
-    "ticker": "BX",
+    "ticker": "KR",
     "reason": "empty or error"
   },
   {
-    "ticker": "BXP",
+    "ticker": "KVUE",
     "reason": "empty or error"
   },
   {
-    "ticker": "C",
+    "ticker": "L",
     "reason": "empty or error"
   },
   {
-    "ticker": "CAG",
+    "ticker": "LDOS",
     "reason": "empty or error"
   },
   {
-    "ticker": "CAH",
+    "ticker": "LEN",
     "reason": "empty or error"
   },
   {
-    "ticker": "CARR",
+    "ticker": "LH",
     "reason": "empty or error"
   },
   {
-    "ticker": "CAT",
+    "ticker": "LHX",
     "reason": "empty or error"
   },
   {
-    "ticker": "CB",
+    "ticker": "LIN",
     "reason": "empty or error"
   },
   {
-    "ticker": "CBOE",
+    "ticker": "LKQ",
     "reason": "empty or error"
   },
   {
-    "ticker": "CBRE",
+    "ticker": "LLY",
     "reason": "empty or error"
   },
   {
-    "ticker": "CCI",
+    "ticker": "LMT",
     "reason": "empty or error"
   },
   {
-    "ticker": "CCL",
+    "ticker": "LNT",
     "reason": "empty or error"
   },
   {
-    "ticker": "CDNS",
+    "ticker": "LOW",
     "reason": "empty or error"
   },
   {
-    "ticker": "CDW",
+    "ticker": "LRCX",
     "reason": "empty or error"
   },
   {
-    "ticker": "CE",
+    "ticker": "LULU",
     "reason": "empty or error"
   },
   {
-    "ticker": "CEG",
+    "ticker": "LUV",
     "reason": "empty or error"
   },
   {
-    "ticker": "CF",
+    "ticker": "LVS",
     "reason": "empty or error"
   },
   {
-    "ticker": "CFG",
+    "ticker": "LW",
     "reason": "empty or error"
   },
   {
-    "ticker": "CHD",
+    "ticker": "LYB",
     "reason": "empty or error"
   },
   {
-    "ticker": "CHRW",
+    "ticker": "LYV",
     "reason": "empty or error"
   },
   {
-    "ticker": "CHTR",
+    "ticker": "MA",
     "reason": "empty or error"
   },
   {
-    "ticker": "CI",
+    "ticker": "MAA",
     "reason": "empty or error"
   },
   {
-    "ticker": "CINF",
+    "ticker": "MAR",
     "reason": "empty or error"
   },
   {
-    "ticker": "CL",
+    "ticker": "MAS",
     "reason": "empty or error"
   },
   {
-    "ticker": "CLX",
+    "ticker": "MCD",
     "reason": "empty or error"
   },
   {
-    "ticker": "CMCSA",
+    "ticker": "MCHP",
     "reason": "empty or error"
   },
   {
-    "ticker": "CME",
+    "ticker": "MCK",
     "reason": "empty or error"
   },
   {
-    "ticker": "CMG",
+    "ticker": "MCO",
     "reason": "empty or error"
   },
   {
-    "ticker": "CMI",
+    "ticker": "MDLZ",
     "reason": "empty or error"
   },
   {
-    "ticker": "CMS",
+    "ticker": "MDT",
     "reason": "empty or error"
   }
 ]
